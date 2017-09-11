@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"battlerName":"Johnny_Action","characterIndex":0,"characterName":"Johnny_Walk","classId":1,"equips":[5,0,6,5,4],"faceIndex":0,"faceName":"Johnny_Face","traits":[],"initialLevel":18,"maxLevel":99,"name":"Johnny","nickname":"TK","note":"","profile":""},
+{"id":2,"battlerName":"Chris_Action","characterIndex":0,"characterName":"Chris_Walk","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Christ_Face","traits":[],"initialLevel":16,"maxLevel":99,"name":"chris","nickname":"Matsuga","note":"","profile":""},
+{"id":3,"battlerName":"john_Action","characterIndex":0,"characterName":"John_dead","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"John_Face","traits":[],"initialLevel":16,"maxLevel":99,"name":"John","nickname":"Kai","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"zack","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"jess_actoipn","characterIndex":0,"characterName":"Jess_walk","classId":4,"equips":[5,0,0,0,0],"faceIndex":0,"faceName":"Jess_FAce","traits":[],"initialLevel":15,"maxLevel":99,"name":"jess","nickname":"Blunt","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"pat","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"jess_actoipn","characterIndex":0,"characterName":"Jess_walk","classId":4,"equips":[5,0,6,5,7],"faceIndex":0,"faceName":"Jess_FAce","traits":[],"initialLevel":24,"maxLevel":99,"name":"Jess Summon","nickname":"Jess","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":11,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":12,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
